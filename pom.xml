@@ -21,18 +21,7 @@
     <module>webapp</module>
   </modules>
 
-         <repositories>
-<repository>
-  <id>lokesh_feed</id>
-  <url>https://pkgs.dev.azure.com/erlokeshsaini/AzureDevopsLokesh/_packaging/lokesh_feed/maven/v1</url>
-  <releases>
-    <enabled>true</enabled>
-  </releases>
-  <snapshots>
-    <enabled>true</enabled>
-  </snapshots>
-</repository>
-                  
+        
   <distributionManagement>
     <site>
       <id>site-server</id>
